@@ -1,5 +1,7 @@
 # 📌疑问解答
 
+[Lab-assignments/问题解答](https://github.com/BesTLP/Lab-assignments/issues)
+
 目前以C和C++程序编写为主，推荐使用<font color='A2CD5A'>Visual Studio 2022</font>
 
 <font color='A2CD5A'>💡 Visual Studio</font> 作为一个<font color='A2CD5A'>集成开发环境（IDE）</font>，通常会提供更详细的错误信息，直接指出问题的根源，比如<font color='87CEFA'>未定义的引用、重复定义或缺少库文件</font>等。如果你使用的是<font color='CD6889'>Dev C++</font>或者<font color='CD6889'>Vscode</font>通常只会返回一个相对简略的错误信息，比如 `[Error] ld returned 1 exit status`，虽然出现这种情况大概率是你上一个运行结果没关闭。
